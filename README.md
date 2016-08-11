@@ -27,5 +27,7 @@ Note: You do not need any of the other avancemos repos in order to use AVAncemos
 
 ```
     chmod +x setup.sh
+    
     ./setup.sh
+    
 ```

@@ -26,7 +26,7 @@ Note: You do not need any of the other avancemos repos in order to use AVAncemos
 3. Run the Setup Script (preferably in the `Documents` folder)
 
 ```
-    chmod +x setup.sh
+    cd AVAncemos/
     
     ./setup.sh
     

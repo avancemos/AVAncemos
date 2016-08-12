@@ -8,7 +8,7 @@ Note: You do not need any of the other avancemos repos in order to use AVAncemos
 1. Clone this Repo
 
     ```
-    git clone git@github.com:avancemos/main.git
+    git clone git@github.com:avancemos/AVAncemos.git
     ```  
 
 2. Install all Dependencies

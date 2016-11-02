@@ -1,6 +1,6 @@
 
-git clone git@github.com:avancemos/rep.git
+git clone https://github.com/avancemos/rep.git
 sleep 1
-git clone git@github.com:avancemos/rmv.git
+git clone https://github.com/avancemos/rmv.git
 sleep 1
-git clone git@github.com:avancemos/id.git
+git clone https://github.com/avancemos/id.git
